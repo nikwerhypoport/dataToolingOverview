@@ -20,5 +20,7 @@ Overview of modern data tools and their aspects
 | Testing                   |   |   |   |   |
 | DEV/PROD Staging          |   |   |   |   |
 | ETL                       |   |   |   |   |
+| NO CODE/GUI SUPPORT       |   |   |   |   |
+| GIT like UEx              |   |   |   |   |
 
 
